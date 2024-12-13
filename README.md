@@ -20,7 +20,7 @@ This project demonstrates the implementation of **SignalR** in an ASP.NET Core M
 ```bash
 git clone (https://github.com/hardiknpatelbacancy/SignalR-Demo.git)
 cd signalr-demo
-```![Screenshot_1](https://github.com/user-attachments/assets/6c1973e8-545a-4440-a185-27da13477535)
+```
 
 
 ### 2. Build the Project
