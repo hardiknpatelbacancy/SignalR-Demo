@@ -18,7 +18,7 @@ This project demonstrates the implementation of **SignalR** in an ASP.NET Core M
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/signalr-demo.git
+git clone (https://github.com/hardiknpatelbacancy/SignalR-Demo.git)
 cd signalr-demo
 ```![Screenshot_1](https://github.com/user-attachments/assets/6c1973e8-545a-4440-a185-27da13477535)
 
@@ -28,7 +28,7 @@ Restore the NuGet packages and build the project:
 ```bash
 dotnet restore
 dotnet build
-```![Screenshot_1](https://github.com/user-attachments/assets/47c3e705-331f-4efe-9802-13a183a24030)
+```
 
 
 ### 3. Run the Application
