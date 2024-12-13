@@ -1,0 +1,83 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\SignalR\\SignalR-Demo\\WebApplicationSignalRSample\\WebApplicationSignalRSample.csproj": {}
+  },
+  "projects": {
+    "C:\\SignalR\\SignalR-Demo\\WebApplicationSignalRSample\\WebApplicationSignalRSample.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\SignalR\\SignalR-Demo\\WebApplicationSignalRSample\\WebApplicationSignalRSample.csproj",
+        "projectName": "WebApplicationSignalRSample",
+        "projectPath": "C:\\SignalR\\SignalR-Demo\\WebApplicationSignalRSample\\WebApplicationSignalRSample.csproj",
+        "packagesPath": "C:\\Users\\Bacancy\\.nuget\\packages\\",
+        "outputPath": "C:\\SignalR\\SignalR-Demo\\WebApplicationSignalRSample\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 23.2\\Components\\Offline Packages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Bacancy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 23.2\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/gdUPlgtJs6i3YXHBusvCWSOEWeChs8Q5p6PsNUdTEQnFZt7Xfw/api": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.SignalR": {
+              "target": "Package",
+              "version": "[1.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
