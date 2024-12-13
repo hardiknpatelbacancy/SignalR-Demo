@@ -7,6 +7,8 @@ This project demonstrates the implementation of **SignalR** in an ASP.NET Core M
 - **Real-Time Messaging**: Broadcast messages to all connected clients.
 - **User Groups**: Manage communication between specific sets of users. (WIP)
 - **Private Messaging**: Send direct messages between users. (WIP)
+![Screenshot_1](https://github.com/user-attachments/assets/831743a6-72f9-4c4d-af00-6be4a30964ac)
+
 
 ## Prerequisites
 
